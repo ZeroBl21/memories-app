@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8381b32124d99e8a9851a33e6c590d02",
+    "revision": "ebee55697fc5c91fb0f70a3ff6925f8d",
     "url": "/memories-app/index.html"
   },
   {
-    "revision": "5a31b0efd4513c5d4e72",
+    "revision": "0ba542450fccdc55e215",
     "url": "/memories-app/static/css/main.2316c888.chunk.css"
   },
   {
-    "revision": "bebe2336014060f4d51d",
-    "url": "/memories-app/static/js/2.9f3cc2f9.chunk.js"
+    "revision": "f213b6f8be3df1eba7bf",
+    "url": "/memories-app/static/js/2.bffb2586.chunk.js"
   },
   {
     "revision": "cd94619111e2ab78ce54eac27b302772",
-    "url": "/memories-app/static/js/2.9f3cc2f9.chunk.js.LICENSE.txt"
+    "url": "/memories-app/static/js/2.bffb2586.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5a31b0efd4513c5d4e72",
-    "url": "/memories-app/static/js/main.69ff324a.chunk.js"
+    "revision": "0ba542450fccdc55e215",
+    "url": "/memories-app/static/js/main.42bdd611.chunk.js"
   },
   {
     "revision": "0a16476c4360cd00b683",
